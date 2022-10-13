@@ -1,6 +1,9 @@
 {
-  "name": "rise-design",
-  "version": "0.1.0",
+  "name": "<%= name %>",
+  "description":"<%= description %>",
+  "author": "<%= author %>",
+  "keywords": ["<%= keywords %>"],
+  "version": "0.1.1",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
